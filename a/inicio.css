@@ -1,0 +1,17 @@
+.titulo{
+    color:#F2A81D;
+    font-size: 50px;
+    font-weight:600;
+}
+.subtitulo{
+    color: #F2A81D;
+    font-size: 25px;
+    font-weight:500;
+}
+p{
+    color:#D9CDB8;
+    font-weight:300
+}
+article{
+    margin: 300px 150px ;
+}
